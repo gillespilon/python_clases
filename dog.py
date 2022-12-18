@@ -1,6 +1,6 @@
 #! /usr/bin/env python3
 """
-docstring
+Simple example of a class, attributes, and methods
 """
 
 from pathlib import Path
