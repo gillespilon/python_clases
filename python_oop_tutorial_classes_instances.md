@@ -1,4 +1,4 @@
-# Python OOP tutorial---classes and instances
+# Python OOP tutorial&mdash;classes and instances
 
 Why use classes? They logically group our data (attributes) and functions (methods) in a way that is easy to use, resue, and build upon.
 
