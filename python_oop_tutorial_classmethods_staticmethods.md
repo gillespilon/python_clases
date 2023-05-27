@@ -1,3 +1,3 @@
-% Python OOP tutorial---classmethods and staticmethods
+# Python OOP tutorial---classmethods and staticmethods
 
 TBD

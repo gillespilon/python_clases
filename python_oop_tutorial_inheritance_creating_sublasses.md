@@ -1,3 +1,3 @@
-% Python OOP tutorial---inheritance---creating subclasses
+# Python OOP tutorial---inheritance---creating subclasses
 
 TBD
