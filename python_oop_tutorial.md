@@ -1,4 +1,4 @@
-# Python OOP Tutorial---Classes and Instances
+# Python OOP Tutorial
 
 This document contains my notes from [Corey Schafer's YouTube tutorials](https://www.youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc).
 
