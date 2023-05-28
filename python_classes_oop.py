@@ -1,7 +1,11 @@
 #! /usr/bin/env python3
 """
-Tutorial notes from https://www.youtube.com/c/Coreyms. Look for Python OOP
-Tutorial.
+Tutorial notes for:
+- https://www.youtube.com/c/Coreyms
+- Python OOP Tutorials - Working with Classes
+
+Script:
+- python_classes_oop.py
 """
 
 
