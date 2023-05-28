@@ -5,7 +5,7 @@ Tutorial notes for:
 - Python OOP Tutorials - Working with Classes
 
 Script:
-- python_classes_oop.py
+- python_oop_tutorial_classes_instances.py
 """
 
 
