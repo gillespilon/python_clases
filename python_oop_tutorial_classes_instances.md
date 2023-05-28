@@ -33,8 +33,12 @@ This code is based on the video. I've made edits to make it more readable and ex
 
     #! /usr/bin/env python3
     """
-    Tutorial notes from https://www.youtube.com/c/Coreyms. Look for Python OOP
-    Tutorial.
+    Code for for:
+    - https://www.youtube.com/c/Coreyms
+    - Python OOP Tutorials - Working with Classes
+
+    Script:
+    - python_oop_tutorial_classes_instances.py
     """
 
 
