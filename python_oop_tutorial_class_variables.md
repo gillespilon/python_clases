@@ -1,5 +1,8 @@
 # Python OOP tutorial&mdash;class variables
 
+- Class variables
+- Instance variables
+
 Class variables are shared among all instances of a class. Instance variables can be unique for each instance, for example, first_name, last_name, email, and annual_pay. Class variables should be the same for each instance. A good example would be an annual raise given equally to all employees. When we access class variables we access them through the class itself or an instance of the class. When we try to access an attribute on an instance it will first check if the instance contains that attribute and if it does not it will see if the class or any class that it inherits from contains that attribute.
 
 # Code for this video
